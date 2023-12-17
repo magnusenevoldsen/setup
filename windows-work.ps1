@@ -1,5 +1,4 @@
 # Description: Boxstarter Script
-# Author: Joseph Petersen
 # My Personal Setup
 
 Disable-UAC
@@ -38,7 +37,7 @@ ExecuteScript "CommonApps.ps1"
 ExecuteScript "DevApps.ps1"
 ExecuteScript "WorkApps.ps1"
 ExecuteScript "WSL.ps1"
-ExecuteScript "Fonts.ps1"
+#ExecuteScript "Fonts.ps1"
 ExecuteScript "Projects.ps1"
 
 Enable-UAC

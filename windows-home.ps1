@@ -1,5 +1,4 @@
 # Description: Boxstarter Script
-# Author: Joseph Petersen
 # My Personal Setup
 
 Disable-UAC
